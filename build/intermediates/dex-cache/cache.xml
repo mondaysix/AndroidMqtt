@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_101a83bec486835e5fe7fa04936765697426239d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_4473f0118fd9687dae4eda5fef11ccd2a8b3071f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_a62c5f107a803300beec1f8402af31d1d6bfbf2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_cf236eb7b8d2e57ae4c736ccfc49902cb1ba632d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/adapter-rxjava/2.0.0-beta2/3a233746381a03dbb0f5f3ed10b11c3e72dba499/adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0-beta2_a223d03919e824078fb75b00fd071d415268ddf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_7a2c0b395f3507f50e27f53dae8a202a3be1b6ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_53a6d7c5b7434cb6390531106dc37c86fc9b1ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/src/main/libs/wmqtt.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc86f8fb0a55738adc56d1a3320d39a5b71fb04c">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/wmqtt_5be025bdbc2c9a0114b8910862587b136bce3615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_2a90c25871d1d7ea3d6f44ddd5d1e83ba676fe5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_ed8b0ecf43330ea73bdee0eb90696e1f15f52da2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_95f67fc83d06cdd25bb65fedecfba8a4dd2a1ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_76f4eda7fdcd969d62fa64859312caec37be71d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e65f2288e45cfd7e40d7a2f80a630fa44a36b5e7">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_655a78eb0dcfc1db6406041582594e7e650cecc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_2cfab153e189f0186689adffcff0f149b8150776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="590ce7b2d7564f8fecd4181e10e5a4d0b9901bb8">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_871a869e1c6c2066f4bd6e477ba90d934bb93a4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_bcd4ddb0a2f9d775e58b3265f2c8a082434cf4a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_3d74f5da41ed41668540a3eec88bfedd6e2af0fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_8782d3d6fbce5ffb271caf01b705990654e84e99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_766128fe6a6780951e6980dfb0d4fd6f8ca0b843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_b59884c6c161306372c4b9edb86ff15ff1f81191/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_955936cfdaa38e443d846f253713e577992d560c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta2_ee9afcfd337928a4b6a3191f0e131fa95dbd1a37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_42de155f4a744334e52c12a779e1f4451a501286/classes.dex" />
+    </item>
+
+</items>
