@@ -84,6 +84,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_a68cd05f23c598ed1d355ac1c91d1b627313e15e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -115,7 +124,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e65f2288e45cfd7e40d7a2f80a630fa44a36b5e7">
+        sha1="9fb8769c00b0c1ba218072a51ad2b3bd8de5d4de">
         <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_655a78eb0dcfc1db6406041582594e7e650cecc8/classes.dex" />
     </item>
     <item
@@ -133,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="590ce7b2d7564f8fecd4181e10e5a4d0b9901bb8">
+        sha1="d695749fb80425f312782417e656dcc5d713fc8c">
         <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_871a869e1c6c2066f4bd6e477ba90d934bb93a4c/classes.dex" />
     </item>
     <item
@@ -153,6 +162,15 @@
         revision="25.0.2"
         sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
         <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_3d74f5da41ed41668540a3eec88bfedd6e2af0fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meyki/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/meyki/AndroidStudioProjects/FistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_d797135c51975361732e831ca1cf247a567e7270/classes.dex" />
     </item>
     <item
         is-multidex="true"

@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".RegisterActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -18,8 +18,15 @@
             </intent-filter>
         </activity>
         <activity android:name=".LoginActivity">
-
         </activity>
+        <activity android:name=".MainActivity"/>
+        <receiver android:name=".MyBroadCastReceiver">
+            <intent-filter>
+                <action android:name="com.app.userinfo.pic">
+
+                </action>
+            </intent-filter>
+        </receiver>
     </application>
 
 </manifest>

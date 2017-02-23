@@ -1,8 +1,6 @@
 package com.example.meyki.fistapp;
 
-import android.util.Log;
 
-import com.google.gson.Gson;
 
 import org.json.JSONObject;
 
@@ -36,16 +34,18 @@ public class RetrofitUtil {
         this.listener = listener;
         return this;
     }
-    public RetrofitUtil downData(String json_url, JSONObject jsonObject){
+    public RetrofitUtil downData(String json_url, JSONObject jsonObject,int id){
         final String[] result = {null};
         RetrofitServices retrofitServices = retrofit.create(RetrofitServices.class);
-        Call<ResponseBody> call;
-        Log.d("msg", "downData: "+jsonObject);
-        if (jsonObject!=null){
+        Call<ResponseBody> call = null;
+        if (id == 1){
+            call = retrofitServices.getJSON(json_url);
+        }
+        else if(id == 2) {
             call = retrofitServices.createUser(jsonObject);
         }
-        else {
-            call = retrofitServices.getJSON(json_url);
+        else if(id == 3){
+            call = retrofitServices.userLogin(jsonObject);
         }
 
         call.enqueue(new Callback<ResponseBody>() {
